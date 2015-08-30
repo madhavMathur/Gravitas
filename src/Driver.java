@@ -1,5 +1,5 @@
 
-public class SomeMoreGravity {
+public class Driver {
 	
 	public static void main(String[] args) {
 		Frame frame = new Frame();
